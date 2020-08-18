@@ -7,9 +7,9 @@ This is the repository for my solutions to AI and Computational Intelligence cou
 **Computer Assignment 2:** Implementation of Logical Functions with Genetic Programming
 
 **Course Project:** ECG Signal Processing and Diagnosing Heart Diseases
-1. Processing Raw Dataset and Feature Extraction, Implementation of Fuzzy Systems in order to Classify Diseases
-2. Implementation of Variuos Types of Neural Nets to Diagnose Diseases
-3. Feature Selection Based on Evolutionary Algorithms and Repeating Previous Methods to Compare the Results
+- Processing Raw Dataset and Feature Extraction, Implementation of Fuzzy Systems in order to Classify Diseases
+- Implementation of Variuos Types of Neural Nets to Diagnose Diseases
+- Feature Selection Based on Evolutionary Algorithms and Repeating Previous Methods to Compare the Results
 
 
 

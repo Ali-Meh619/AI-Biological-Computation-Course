@@ -1,4 +1,4 @@
-# AI and Computational Intelligence Course
+# AI and Computational Biology Course
 
 This is the repository for my solutions to AI and Computational Intelligence course's coumputer assignments at Sharif University of Technology. This course was taught by Dr. Hajipour at the Department of Electrical Engineering.
 

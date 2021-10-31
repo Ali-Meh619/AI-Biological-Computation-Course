@@ -1,6 +1,6 @@
-# AI and Computational Biology Course
+# AI and Biological Computation Course
 
-This is the repository for my solutions to AI and Computational Intelligence course's coumputer assignments at Sharif University of Technology. This course was taught by Dr. Hajipour at the Department of Electrical Engineering.
+This is the repository for my solutions to AI and Biological Computation course's coumputer assignments at Sharif University of Technology. This course was taught by Dr. Hajipour at the Department of Electrical Engineering.
 
 **Computer Assignment 1:** Implementation of Neuro-Fuzzy Systems for Approximating Functions, Implementing Neural Nets for Solving NARMA Problem
 
